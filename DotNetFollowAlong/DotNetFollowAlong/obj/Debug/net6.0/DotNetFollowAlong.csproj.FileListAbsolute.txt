@@ -1,0 +1,17 @@
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\bin\Debug\net6.0\DotNetFollowAlong.exe
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\bin\Debug\net6.0\DotNetFollowAlong.deps.json
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\bin\Debug\net6.0\DotNetFollowAlong.runtimeconfig.json
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\bin\Debug\net6.0\DotNetFollowAlong.dll
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\bin\Debug\net6.0\DotNetFollowAlong.pdb
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\bin\Debug\net6.0\ColorHelper.dll
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\DotNetFollowAlong.csproj.AssemblyReference.cache
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\DotNetFollowAlong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\DotNetFollowAlong.AssemblyInfoInputs.cache
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\DotNetFollowAlong.AssemblyInfo.cs
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\DotNetFollowAlong.csproj.CoreCompileInputs.cache
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\DotNetFollowAlong.csproj.CopyComplete
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\DotNetFollowAlong.dll
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\refint\DotNetFollowAlong.dll
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\DotNetFollowAlong.pdb
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\DotNetFollowAlong.genruntimeconfig.cache
+C:\Users\Katie\Documents\CSharpLearning\DotNetFollowAlong\DotNetFollowAlong\obj\Debug\net6.0\ref\DotNetFollowAlong.dll

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotNetFollowAlong/1.0.0": {
+        "dependencies": {
+          "ColorHelper": "1.8.0"
+        },
+        "runtime": {
+          "DotNetFollowAlong.dll": {}
+        }
+      },
+      "ColorHelper/1.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/ColorHelper.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetFollowAlong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ColorHelper/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yXdDp9lsfeonDSC4F5OAlr7S0HJ6vR3eAMN00G/LAz3jwLbF/G1hRwgsLytopU49WxPCmjaEi5pz4llvRSv9DA==",
+      "path": "colorhelper/1.8.0",
+      "hashPath": "colorhelper.1.8.0.nupkg.sha512"
+    }
+  }
+}
